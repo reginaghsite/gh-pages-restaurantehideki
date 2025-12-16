@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://restaurantehideki.com.br/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://restaurantehideki.com.br/</loc>
+</url>
+<url>
+<loc>https://restaurantehideki.com.br/a-culinaria-arabe-que-vai-ate-voce-sabores-e-vantagens-do-buffet-em-casa/</loc>
+<lastmod>2025-12-16T22:43:41+00:00</lastmod>
+<image:image>
+<image:loc>https://restaurantehideki.com.br/media/posts/89/pratos.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://restaurantehideki.com.br/contato/</loc>
+<lastmod>2025-12-16T22:46:19+00:00</lastmod>
+</url>
+<url>
+<loc>https://restaurantehideki.com.br/dicas-para-valorizar-seu-chimarrao-com-pecas-nobres-e-artesanais/</loc>
+<lastmod>2025-12-16T22:43:34+00:00</lastmod>
+</url>
+<url>
+<loc>https://restaurantehideki.com.br/politica-de-privacidade/</loc>
+<lastmod>2025-12-16T22:45:54+00:00</lastmod>
+</url>
+<url>
+<loc>https://restaurantehideki.com.br/por-que-um-buffet-a-domicilio-e-a-escolha-certa-para-seu-evento/</loc>
+<lastmod>2025-12-16T22:43:41+00:00</lastmod>
+<image:image>
+<image:loc>https://restaurantehideki.com.br/media/posts/88/salada.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://restaurantehideki.com.br/termos-e-condicoes/</loc>
+<lastmod>2025-12-16T22:45:41+00:00</lastmod>
+</url>
+<url>
+<loc>https://restaurantehideki.com.br/top-5-expressoes-tecnicas-essenciais-para-negocios-gastronomicos/</loc>
+<lastmod>2025-12-16T22:43:35+00:00</lastmod>
+</url>
+</urlset>
